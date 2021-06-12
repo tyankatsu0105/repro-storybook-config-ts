@@ -1,5 +1,5 @@
 {
-  "name": "storybook-6.0.0",
+  "name": "storybook-6.2.0-ts-install-ts-node",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -17,7 +17,10 @@
     "@storybook/addon-essentials": "6.2.0",
     "@storybook/addon-links": "6.2.0",
     "@storybook/html": "6.2.0",
-    "babel-loader": "^8.2.2"
+    "@types/node": "^15.12.2",
+    "babel-loader": "^8.2.2",
+    "ts-node": "^10.0.0",
+    "typescript": "^4.3.2"
   },
   "dependencies": {}
 }
